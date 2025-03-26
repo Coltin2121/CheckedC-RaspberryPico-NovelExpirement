@@ -1,0 +1,46 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "/Users/c.colucci/Desktop/CMPSC200/class-exercises/class-exercises/01-basic-assembly/01-addition/build/CMakeFiles/picotoolBuild"
+		},
+		{
+			"file" : "/Users/c.colucci/Desktop/CMPSC200/class-exercises/class-exercises/01-basic-assembly/01-addition/build/CMakeFiles/picotoolBuild.rule"
+		},
+		{
+			"file" : "/Users/c.colucci/Desktop/CMPSC200/class-exercises/class-exercises/01-basic-assembly/01-addition/build/CMakeFiles/picotoolBuild-complete.rule"
+		},
+		{
+			"file" : "/Users/c.colucci/Desktop/CMPSC200/class-exercises/class-exercises/01-basic-assembly/01-addition/build/picotool/src/picotoolBuild-stamp/picotoolBuild-build.rule"
+		},
+		{
+			"file" : "/Users/c.colucci/Desktop/CMPSC200/class-exercises/class-exercises/01-basic-assembly/01-addition/build/picotool/src/picotoolBuild-stamp/picotoolBuild-configure.rule"
+		},
+		{
+			"file" : "/Users/c.colucci/Desktop/CMPSC200/class-exercises/class-exercises/01-basic-assembly/01-addition/build/picotool/src/picotoolBuild-stamp/picotoolBuild-download.rule"
+		},
+		{
+			"file" : "/Users/c.colucci/Desktop/CMPSC200/class-exercises/class-exercises/01-basic-assembly/01-addition/build/picotool/src/picotoolBuild-stamp/picotoolBuild-install.rule"
+		},
+		{
+			"file" : "/Users/c.colucci/Desktop/CMPSC200/class-exercises/class-exercises/01-basic-assembly/01-addition/build/picotool/src/picotoolBuild-stamp/picotoolBuild-mkdir.rule"
+		},
+		{
+			"file" : "/Users/c.colucci/Desktop/CMPSC200/class-exercises/class-exercises/01-basic-assembly/01-addition/build/picotool/src/picotoolBuild-stamp/picotoolBuild-patch.rule"
+		},
+		{
+			"file" : "/Users/c.colucci/Desktop/CMPSC200/class-exercises/class-exercises/01-basic-assembly/01-addition/build/picotool/src/picotoolBuild-stamp/picotoolBuild-test.rule"
+		},
+		{
+			"file" : "/Users/c.colucci/Desktop/CMPSC200/class-exercises/class-exercises/01-basic-assembly/01-addition/build/picotool/src/picotoolBuild-stamp/picotoolBuild-update.rule"
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"picotoolBuild"
+		],
+		"name" : "picotoolBuild"
+	}
+}

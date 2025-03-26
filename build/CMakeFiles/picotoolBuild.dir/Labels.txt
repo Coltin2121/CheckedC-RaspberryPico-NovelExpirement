@@ -1,0 +1,14 @@
+# Target labels
+ picotoolBuild
+# Source files and their labels
+/Users/c.colucci/Desktop/CMPSC200/class-exercises/class-exercises/01-basic-assembly/01-addition/build/CMakeFiles/picotoolBuild
+/Users/c.colucci/Desktop/CMPSC200/class-exercises/class-exercises/01-basic-assembly/01-addition/build/CMakeFiles/picotoolBuild.rule
+/Users/c.colucci/Desktop/CMPSC200/class-exercises/class-exercises/01-basic-assembly/01-addition/build/CMakeFiles/picotoolBuild-complete.rule
+/Users/c.colucci/Desktop/CMPSC200/class-exercises/class-exercises/01-basic-assembly/01-addition/build/picotool/src/picotoolBuild-stamp/picotoolBuild-build.rule
+/Users/c.colucci/Desktop/CMPSC200/class-exercises/class-exercises/01-basic-assembly/01-addition/build/picotool/src/picotoolBuild-stamp/picotoolBuild-configure.rule
+/Users/c.colucci/Desktop/CMPSC200/class-exercises/class-exercises/01-basic-assembly/01-addition/build/picotool/src/picotoolBuild-stamp/picotoolBuild-download.rule
+/Users/c.colucci/Desktop/CMPSC200/class-exercises/class-exercises/01-basic-assembly/01-addition/build/picotool/src/picotoolBuild-stamp/picotoolBuild-install.rule
+/Users/c.colucci/Desktop/CMPSC200/class-exercises/class-exercises/01-basic-assembly/01-addition/build/picotool/src/picotoolBuild-stamp/picotoolBuild-mkdir.rule
+/Users/c.colucci/Desktop/CMPSC200/class-exercises/class-exercises/01-basic-assembly/01-addition/build/picotool/src/picotoolBuild-stamp/picotoolBuild-patch.rule
+/Users/c.colucci/Desktop/CMPSC200/class-exercises/class-exercises/01-basic-assembly/01-addition/build/picotool/src/picotoolBuild-stamp/picotoolBuild-test.rule
+/Users/c.colucci/Desktop/CMPSC200/class-exercises/class-exercises/01-basic-assembly/01-addition/build/picotool/src/picotoolBuild-stamp/picotoolBuild-update.rule
